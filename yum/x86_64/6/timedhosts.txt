@@ -1,0 +1,10 @@
+ftp.ember.se 0.0407028198242
+mirrors.glesys.net 0.0300250053406
+mirror.hh.se 0.0386309623718
+centos.mirror.far.fi 0.0266988277435
+mirror.nsc.liu.se 0.0301539897919
+ftp.lysator.liu.se 0.0323739051819
+ftp.funet.fi 0.0431659221649
+centos.uib.no 0.0306191444397
+mirror.zetup.net 0.0583460330963
+ftp.uninett.no 0.0236828327179
